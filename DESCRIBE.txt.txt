@@ -1,0 +1,19 @@
+|-- datasets/
+| 	|-- raw/
+|	|-- processed/
+|-- src/
+|	|-- data/
+|	|	|--data_loader.py
+|	|	|--data_preprocess.py
+|	|	|--data_visualize.py
+|	|-- models/
+|	|	|--model.py
+|	|	|--train.py
+|	|	|--evaluate.py
+|	|-- utils/
+|	|	|--file_utils.py
+|	|	|--metrics.py
+|	|-- main.py
+|-- notebooks/
+|-- tests/
+|-- results/
