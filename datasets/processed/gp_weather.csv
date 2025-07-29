@@ -1,0 +1,381 @@
+raceId,year,url_gp,weather_raw
+349,2010,http://en.wikipedia.org/wiki/2010_Belgian_Grand_Prix,Intermittent rain
+351,2010,http://en.wikipedia.org/wiki/2010_Singapore_Grand_Prix,"Clear; Air temp 29 to 30 °C (84 to 86 °F), Track temp 31 °C (88 °F)[5][6]"
+350,2010,http://en.wikipedia.org/wiki/2010_Italian_Grand_Prix,Sunny
+352,2010,http://en.wikipedia.org/wiki/2010_Japanese_Grand_Prix,Sunny
+343,2010,http://en.wikipedia.org/wiki/2010_Turkish_Grand_Prix,Air: 28 to 29 °C (82 to 84 °F) Track: 39 to 49 °C (102 to 120 °F)
+354,2010,http://en.wikipedia.org/wiki/2010_Brazilian_Grand_Prix,Clear; 25 °C (77 °F)
+355,2010,http://en.wikipedia.org/wiki/2010_Abu_Dhabi_Grand_Prix,"Dry[3]
+Air Temp 28 °C (82 °F)[3]
+
+Track Temp 33 °C (91 °F) dropping to 29 °C (84 °F)[3]"
+348,2010,http://en.wikipedia.org/wiki/2010_Hungarian_Grand_Prix,Mainly sunny28 °C (82 °F)[1]
+353,2010,http://en.wikipedia.org/wiki/2010_Korean_Grand_Prix,"Rain. Air 20 °C (68 °F), Track 18 °C (64 °F)"
+347,2010,http://en.wikipedia.org/wiki/2010_German_Grand_Prix,"Mainly cloudy, dry[4]"
+340,2010,http://en.wikipedia.org/wiki/2010_Chinese_Grand_Prix,"Cloudy, rain"
+345,2010,http://en.wikipedia.org/wiki/2010_European_Grand_Prix,Dry[3]
+344,2010,http://en.wikipedia.org/wiki/2010_Canadian_Grand_Prix,Warm with temperatures approaching 26 °C (79 °F); wind speeds up to 4.9 kilometres per hour (3.0 mph)[1]
+337,2010,http://en.wikipedia.org/wiki/2010_Bahrain_Grand_Prix,Sunny
+342,2010,http://en.wikipedia.org/wiki/2010_Monaco_Grand_Prix,"Mainly cloudy, dry"
+341,2010,http://en.wikipedia.org/wiki/2010_Spanish_Grand_Prix,"Mainly cloudy, dry"
+339,2010,http://en.wikipedia.org/wiki/2010_Malaysian_Grand_Prix,"Mainly cloudy, dry"
+338,2010,http://en.wikipedia.org/wiki/2010_Australian_Grand_Prix,Overcast with light rain at start
+346,2010,http://en.wikipedia.org/wiki/2010_British_Grand_Prix,Mainly sunny
+852,2011,http://en.wikipedia.org/wiki/2011_Belgian_Grand_Prix,"Cloudy, dry"
+853,2011,http://en.wikipedia.org/wiki/2011_Italian_Grand_Prix,Mainly sunny
+854,2011,http://en.wikipedia.org/wiki/2011_Singapore_Grand_Prix,"Hot and humid
+
+Air Temp 31 °C (88 °F)[1]"
+858,2011,http://en.wikipedia.org/wiki/2011_Abu_Dhabi_Grand_Prix,"Fine and Dry
+
+Air Temp 25 °C (77 °F)[1]"
+856,2011,http://en.wikipedia.org/wiki/2011_Korean_Grand_Prix,"Dry, light rain at the start
+
+Air Temp 21 °C (70 °F)[2]"
+857,2011,http://en.wikipedia.org/wiki/2011_Indian_Grand_Prix,"Fine and Dry
+
+Air Temp 30 °C (86 °F)[1]"
+859,2011,http://en.wikipedia.org/wiki/2011_Brazilian_Grand_Prix,"Fine
+
+Air Temp 24 °C (75 °F)  Track Temp 43 °C (109 °F)[1]"
+855,2011,http://en.wikipedia.org/wiki/2011_Japanese_Grand_Prix,"Sunny and dry
+
+Air Temp 24 °C (75 °F)[3]"
+851,2011,http://en.wikipedia.org/wiki/2011_Hungarian_Grand_Prix,"Cloudy, rain showers"
+848,2011,http://en.wikipedia.org/wiki/2011_European_Grand_Prix,"Clear, Fine and Dry[1][2]Air Temp 27 °C (81 °F)[2]Track Temp 47 °C (117 °F)[2]"
+849,2011,http://en.wikipedia.org/wiki/2011_British_Grand_Prix,Wet track at start; subsequently drying.[1]Air Temp 20 °C (68 °F)[1]Track Temp 22 °C (72 °F)[1]
+847,2011,http://en.wikipedia.org/wiki/2011_Canadian_Grand_Prix,"Wet at start, very heavy rain later, after rain stops, track drying towards the end. Temperatures up to 27 °C (81 °F); wind speeds up to 12 kilometres per hour (7.5 mph)[2]"
+846,2011,http://en.wikipedia.org/wiki/2011_Monaco_Grand_Prix,"Sunny, Fine and Dry[2]Air Temp 24 °C (75 °F)[2]Track Temp 44 °C (111 °F)[2]"
+845,2011,http://en.wikipedia.org/wiki/2011_Spanish_Grand_Prix,"Mainly sunny, Fine and Dry[3][4]
+Air Temp 27 °C (81 °F)[4]
+
+Track Temp 33 °C (91 °F) to 44 °C (111 °F)[4]"
+844,2011,http://en.wikipedia.org/wiki/2011_Turkish_Grand_Prix,"Sunny, Fine and Dry[2]
+Air Temp 17 °C (63 °F)[2]
+
+Track Temp 35 °C (95 °F) dropping to 30 °C (86 °F)[2]"
+843,2011,http://en.wikipedia.org/wiki/2011_Chinese_Grand_Prix,"Fine and Dry[1]
+Air Temp 22 °C (72 °F)[1]
+
+Track Temp 32 °C (90 °F) dropping to 26 °C (79 °F)[1]"
+842,2011,http://en.wikipedia.org/wiki/2011_Malaysian_Grand_Prix,"Cloudy, dry"
+841,2011,http://en.wikipedia.org/wiki/2011_Australian_Grand_Prix,"Sunny, 18°C"
+850,2011,http://en.wikipedia.org/wiki/2011_German_Grand_Prix,"Cloudy, (light) rain at start"
+875,2012,http://en.wikipedia.org/wiki/2012_Korean_Grand_Prix,"Fine and Dry[3]
+Air Temp 21 °C (70 °F)[3]
+
+Track Temp 27 °C (81 °F) dropping to 23 °C (73 °F)[3]"
+873,2012,http://en.wikipedia.org/wiki/2012_Singapore_Grand_Prix,Hot and humid[2]Air Temp 29 °C (84 °F)[2]Track Temp 31 °C (88 °F)[2]
+874,2012,http://en.wikipedia.org/wiki/2012_Japanese_Grand_Prix,"Fine and Dry[2]
+Air Temp 23 °C (73 °F)[2]
+
+Track Temp 32 °C (90 °F)[2]"
+876,2012,http://en.wikipedia.org/wiki/2012_Indian_Grand_Prix,"Fine, Dry, a little hazy and a little dusty[2]
+Air Temp 30 °C (86 °F)[2]
+
+Track Temp 36 °C (97 °F) dropping to 31 °C (88 °F)[2]"
+867,2012,http://en.wikipedia.org/wiki/2012_European_Grand_Prix,"Fine and Dry[2]
+Air Temp 27 °C (81 °F)[2]
+
+Track Temp 45 °C (113 °F)[2]"
+878,2012,http://en.wikipedia.org/wiki/2012_United_States_Grand_Prix,Scattered clouds[2][3]Air temp 24 °C (75 °F)[3]Track temp 32 °C (90 °F)[3]
+879,2012,http://en.wikipedia.org/wiki/2012_Brazilian_Grand_Prix,"Race start:Light rain shower getting heavier at the end.[2]
+Air Temp 19 °C (66 °F)[2]
+
+Track Temp 21 °C (70 °F)[2]"
+872,2012,http://en.wikipedia.org/wiki/2012_Italian_Grand_Prix,"Dry and sizzlingly sunny[2]
+Air temp 28 °C (82 °F)[2]
+
+Track temp 40 °C (104 °F)[2]"
+877,2012,http://en.wikipedia.org/wiki/2012_Abu_Dhabi_Grand_Prix,"Dry[2]
+Air Temp 29 °C (84 °F)[2]
+
+Track Temp 34 °C (93 °F) dropping to 29 °C (84 °F)[2]"
+871,2012,http://en.wikipedia.org/wiki/2012_Belgian_Grand_Prix,"Fine and Dry[4]
+Air Temp 23 °C (73 °F)[4]
+
+Track Temp 33 °C (91 °F)[4]"
+864,2012,http://en.wikipedia.org/wiki/2012_Spanish_Grand_Prix,"Partially cloudy, dry: Air 23 °C (73 °F), Track 36 °C (97 °F)"
+869,2012,http://en.wikipedia.org/wiki/2012_German_Grand_Prix,"Fine and Dry[2]
+Air Temp 22 °C (72 °F)[2]
+
+Track Temp 30 °C (86 °F)[2]"
+862,2012,http://en.wikipedia.org/wiki/2012_Chinese_Grand_Prix,"Overcast but Dry[1]
+Air Temp 22 °C (72 °F)[1]
+
+Track Temp 23 °C (73 °F)[1]"
+863,2012,http://en.wikipedia.org/wiki/2012_Bahrain_Grand_Prix,"Sunny and hot[1][2]
+Air Temp 27 °C (81 °F)[2]
+
+Track Temp 33 °C (91 °F) dropping to 29 °C (84 °F)[2]"
+870,2012,http://en.wikipedia.org/wiki/2012_Hungarian_Grand_Prix,"Fine and Dry. Very Hot[2][3]
+Air Temp 30 °C (86 °F)[3]
+
+Track Temp 45 °C (113 °F)[3]"
+861,2012,http://en.wikipedia.org/wiki/2012_Malaysian_Grand_Prix,"Heavy rain clearing to cloudy and dry[2]
+Air Temp 26 °C (79 °F)[2]
+
+ Track Temp 29 °C (84 °F) dropping to 24 °C (75 °F) [2]"
+866,2012,http://en.wikipedia.org/wiki/2012_Canadian_Grand_Prix,"Fine, dry and warm;[2]
+with air temperature approaching 29 °C (84 °F)[2]
+
+Track Temp 45 °C (113 °F) dropping to 39 °C (102 °F)[2]"
+860,2012,http://en.wikipedia.org/wiki/2012_Australian_Grand_Prix,"Fine[1]
+Air Temp 22 °C (72 °F)[1]
+
+Track Temp 30 °C (86 °F) dropping to 22 °C (72 °F)[1]"
+868,2012,http://en.wikipedia.org/wiki/2012_British_Grand_Prix,DryAir Temp 20 °C (68 °F)[2]Track Temp 31 °C (88 °F)[2]
+865,2012,http://en.wikipedia.org/wiki/2012_Monaco_Grand_Prix,"Fine and Dry, showers threatening at end[2]
+Air Temp 21 °C (70 °F)[2]
+
+Track Temp 38 °C (100 °F) dropping to 31 °C (88 °F)[2]"
+892,2013,http://en.wikipedia.org/wiki/2013_Italian_Grand_Prix,Cloudy
+899,2013,http://en.wikipedia.org/wiki/2013_Brazilian_Grand_Prix,"Cloudy, Air Temp: 18 °C"
+898,2013,http://en.wikipedia.org/wiki/2013_United_States_Grand_Prix,"Partly cloudy, warmTemperatures reaching up to 89.1 °F (31.7 °C); wind speeds approaching speeds of 11.1 miles per hour (17.9 km/h)[2]"
+897,2013,http://en.wikipedia.org/wiki/2013_Abu_Dhabi_Grand_Prix,Clear
+896,2013,http://en.wikipedia.org/wiki/2013_Indian_Grand_Prix,"Sunny, haze"
+895,2013,http://en.wikipedia.org/wiki/2013_Japanese_Grand_Prix,Warm and sunny
+894,2013,http://en.wikipedia.org/wiki/2013_Korean_Grand_Prix,Cloudy with maximum temperatures reaching 29 degrees during the day
+893,2013,http://en.wikipedia.org/wiki/2013_Singapore_Grand_Prix,Dry and 29 degrees
+891,2013,http://en.wikipedia.org/wiki/2013_Belgian_Grand_Prix,Cloudy
+890,2013,http://en.wikipedia.org/wiki/2013_Hungarian_Grand_Prix,"Very hot and sunny, 35 °C."
+888,2013,http://en.wikipedia.org/wiki/2013_German_Grand_Prix,Sunny
+881,2013,http://en.wikipedia.org/wiki/2013_Malaysian_Grand_Prix,Light rain clearing to cloudy and dry
+882,2013,http://en.wikipedia.org/wiki/2013_Chinese_Grand_Prix,Cloudy
+883,2013,http://en.wikipedia.org/wiki/2013_Bahrain_Grand_Prix,Sunny
+880,2013,http://en.wikipedia.org/wiki/2013_Australian_Grand_Prix,"Scattered Clouds, Fine and Dry[2]
+Air Temp 18 °C (64 °F)[2]
+
+Track Temp 25 °C (77 °F) dropping to 19 °C (66 °F)[2]"
+885,2013,http://en.wikipedia.org/wiki/2013_Monaco_Grand_Prix,Warm and sunny
+886,2013,http://en.wikipedia.org/wiki/2013_Canadian_Grand_Prix,Mild with temperatures approaching 23 °C (73 °F); wind speeds up to 15 kilometres per hour (9.3 mph)[2]
+887,2013,http://en.wikipedia.org/wiki/2013_British_Grand_Prix,Dry
+884,2013,http://en.wikipedia.org/wiki/2013_Spanish_Grand_Prix,Sunny
+911,2014,http://en.wikipedia.org/wiki/2014_Belgian_Grand_Prix,Mostly cloudy
+917,2014,http://en.wikipedia.org/wiki/2014_Brazilian_Grand_Prix,"Sunny, Air: 23 to 24 °C (73 to 75 °F), Track: 46 to 50 °C (115 to 122 °F)"
+916,2014,http://en.wikipedia.org/wiki/2014_United_States_Grand_Prix,Sunny
+915,2014,http://en.wikipedia.org/wiki/2014_Russian_Grand_Prix,"Fine and dry;21 °C (70 °F) ambient temperature,33 °C (91 °F) track temperature[4]"
+914,2014,http://en.wikipedia.org/wiki/2014_Japanese_Grand_Prix,Rain. Air: 20 °C (68 °F) Track: 24 °C (75 °F)
+913,2014,http://en.wikipedia.org/wiki/2014_Singapore_Grand_Prix,Clear. Air: 28 to 30 °C (82 to 86 °F) Track: 33 to 37 °C (91 to 99 °F).
+912,2014,http://en.wikipedia.org/wiki/2014_Italian_Grand_Prix,"Sunny; Air: 25 °C (77 °F), Track: 37 to 42 °C (99 to 108 °F)"
+918,2014,http://en.wikipedia.org/wiki/2014_Abu_Dhabi_Grand_Prix,"Clear skies; Air temp: 30 °C (86 °F) during the day, dropping to 24 °C (75.2 °F). Wind speed: 8 km/h (4.9 mph).[2] (Night race)"
+910,2014,http://en.wikipedia.org/wiki/2014_Hungarian_Grand_Prix,"Overcast. Wet track at start, then drying.Scattered thunderstorms during the day, temperatures reaching a maximum of 26 degrees.[1]"
+906,2014,http://en.wikipedia.org/wiki/2014_Canadian_Grand_Prix,Temperatures up to 27.6 °C (81.7 °F); wind speeds up to 16.4 kilometres per hour (10.2 mph)[5]
+908,2014,http://en.wikipedia.org/wiki/2014_British_Grand_Prix,Mostly cloudy with maximum temperatures reaching 21 degrees during the day.
+907,2014,http://en.wikipedia.org/wiki/2014_Austrian_Grand_Prix,"Partially cloudy, hot and dry"
+905,2014,http://en.wikipedia.org/wiki/2014_Monaco_Grand_Prix,"Overcast, Air: 20 to 21 °C (68 to 70 °F), Track: 28 to 30 °C (82 to 86 °F)."
+904,2014,http://en.wikipedia.org/wiki/2014_Spanish_Grand_Prix,Sunny
+903,2014,http://en.wikipedia.org/wiki/2014_Chinese_Grand_Prix,"Mostly cloudy, dry"
+902,2014,http://en.wikipedia.org/wiki/2014_Bahrain_Grand_Prix,Dry
+901,2014,http://en.wikipedia.org/wiki/2014_Malaysian_Grand_Prix,"Dry, 32°C"
+900,2014,http://en.wikipedia.org/wiki/2014_Australian_Grand_Prix,"Overcast, 19 °C(66 °F)"
+909,2014,http://en.wikipedia.org/wiki/2014_German_Grand_Prix,Cloudy with maximum temperatures reaching 26 degrees during the day.
+939,2015,http://en.wikipedia.org/wiki/2015_Singapore_Grand_Prix,Dry28–29 °C (82–84 °F) air temperature34–36 °C (93–97 °F) track temperature0.5 m/s (1.6 ft/s) wind from the west[2]
+940,2015,http://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,Partly cloudy27 °C (81 °F) air temperature52–54 °C (126–129 °F) track temperature4.5 m/s (15 ft/s) wind from the east[2]
+941,2015,http://en.wikipedia.org/wiki/2015_Russian_Grand_Prix,Partly cloudy18 °C (64 °F) air temperature25–27 °C (77–81 °F) track temperature1.5 m/s (4.9 ft/s) wind from the north[2]
+945,2015,http://en.wikipedia.org/wiki/2015_Abu_Dhabi_Grand_Prix,Clear25–27 °C (77–81 °F) air temperature28–29 °C (82–84 °F) track temperature1.5 m/s (4.9 ft/s) wind from the south[3]
+943,2015,http://en.wikipedia.org/wiki/2015_Mexican_Grand_Prix,Partly cloudy22–24 °C (72–75 °F) air temperature48–56 °C (118–133 °F) track temperature1.5 m/s (4.9 ft/s) wind from the northwest[2]
+944,2015,http://en.wikipedia.org/wiki/2015_Brazilian_Grand_Prix,Dry22–28 °C (72–82 °F) air temperature38–48 °C (100–118 °F) track temperature2.5 m/s (8.2 ft/s) wind from the north[2]
+938,2015,http://en.wikipedia.org/wiki/2015_Italian_Grand_Prix,Partly cloudy22–23 °C (72–73 °F) air temperature38–39 °C (100–102 °F) track temperature1.5 m/s (4.9 ft/s) wind from changing directions[2]
+942,2015,http://en.wikipedia.org/wiki/2015_United_States_Grand_Prix,Very cloudy17 °C (63 °F) air temperature17–20 °C (63–68 °F) track temperature8 m/s (26 ft/s) wind from the south[2]
+937,2015,http://en.wikipedia.org/wiki/2015_Belgian_Grand_Prix,Cloudy23 °C (73 °F) air temperature33–37 °C (91–99 °F) track temperature3.5 m/s (11 ft/s) wind from the northwest[2]
+932,2015,http://en.wikipedia.org/wiki/2015_Canadian_Grand_Prix,Sunny20–21 °C (68–70 °F) air temperature39 °C (102 °F) track temperature4 m/s (13 ft/s) wind from the north[2]
+934,2015,http://en.wikipedia.org/wiki/2015_British_Grand_Prix,"Cloudy, rain at times17–20 °C (63–68 °F) air temperature24–32 °C (75–90 °F) track temperature2.5 m/s (8.2 ft/s) wind from the east[2]"
+933,2015,http://en.wikipedia.org/wiki/2015_Austrian_Grand_Prix,Cloudy14–15 °C (57–59 °F) air temperature27–32 °C (81–90 °F) track temperature2 m/s (6.6 ft/s) wind from the west[2]
+931,2015,http://en.wikipedia.org/wiki/2015_Monaco_Grand_Prix,Partly cloudy18–19 °C (64–66 °F) air temperature31–37 °C (88–99 °F) track temperature1.5 m/s (4.9 ft/s) wind from the west[2]
+930,2015,http://en.wikipedia.org/wiki/2015_Spanish_Grand_Prix,Sunny25 °C (77 °F) air temperature44 °C (111 °F) track temperature1.8 m/s (5.9 ft/s) wind from the northeast[3]
+929,2015,http://en.wikipedia.org/wiki/2015_Bahrain_Grand_Prix,"Sunny, clear24–26 °C (75–79 °F) air temperature28–31 °C (82–88 °F) track temperature1.5 m/s (4.9 ft/s) wind from the north[1]"
+928,2015,http://en.wikipedia.org/wiki/2015_Chinese_Grand_Prix,Sunny21 °C (70 °F) air temperature46 °C (115 °F) track temperature1.4 m/s (4.6 ft/s) wind from the northwest[1]
+927,2015,http://en.wikipedia.org/wiki/2015_Malaysian_Grand_Prix,Sunny32–33 °C (90–91 °F) air temperature53–58 °C (127–136 °F) track temperature2 m/s (6.6 ft/s) wind from the south[3]
+926,2015,http://en.wikipedia.org/wiki/2015_Australian_Grand_Prix,Partly cloudy17–18 °C (63–64 °F) air temperature32–37 °C (90–99 °F) track temperature6 m/s (20 ft/s) wind from the south[3]
+936,2015,http://en.wikipedia.org/wiki/2015_Hungarian_Grand_Prix,Sunny22–24 °C (72–75 °F) air temperature41–48 °C (106–118 °F) track temperature3.2 m/s (10 ft/s) wind from the east[2]
+963,2016,http://en.wikipedia.org/wiki/2016_Malaysian_Grand_Prix,Sunny33 °C (91 °F) air temperature49 °C (120 °F) track temperature2.8 m/s (9.2 ft/s) wind from the west[2]
+960,2016,http://en.wikipedia.org/wiki/2016_Belgian_Grand_Prix,Partially cloudy and dry
+962,2016,http://en.wikipedia.org/wiki/2016_Singapore_Grand_Prix,Clear30 °C (86 °F) air temperature34–35 °C (93–95 °F) track temperature1.5 m/s (4.9 ft/s) wind from the east[2]
+964,2016,http://en.wikipedia.org/wiki/2016_Japanese_Grand_Prix,Cloudy
+968,2016,http://en.wikipedia.org/wiki/2016_Abu_Dhabi_Grand_Prix,Sunny
+966,2016,http://en.wikipedia.org/wiki/2016_Mexican_Grand_Prix,Sunny
+967,2016,http://en.wikipedia.org/wiki/2016_Brazilian_Grand_Prix,Rain and 16 °C (60.8 °F)
+959,2016,http://en.wikipedia.org/wiki/2016_German_Grand_Prix,Partially cloudy and dry
+965,2016,http://en.wikipedia.org/wiki/2016_United_States_Grand_Prix,Sunny and hot with temperatures reaching up to 84 °F (29 °C); wind speeds approaching speeds of 9.2 miles per hour (14.8 km/h)[2]
+958,2016,http://en.wikipedia.org/wiki/2016_Hungarian_Grand_Prix,Sunny
+961,2016,http://en.wikipedia.org/wiki/2016_Italian_Grand_Prix,"Sunny, warm"
+956,2016,http://en.wikipedia.org/wiki/2016_Austrian_Grand_Prix,Cloudy
+949,2016,http://en.wikipedia.org/wiki/2016_Bahrain_Grand_Prix,Dry21–22 °C (70–72 °F) air temperature26–29 °C (79–84 °F) track temperature2 m/s (6.6 ft/s) wind from the southwest[4]
+950,2016,http://en.wikipedia.org/wiki/2016_Chinese_Grand_Prix,Sunny21 °C (70 °F) air temperature37 °C (99 °F) track temperature4.8 m/s (16 ft/s) wind from the northeast[4]
+951,2016,http://en.wikipedia.org/wiki/2016_Russian_Grand_Prix,Partly cloudy16 °C (61 °F) air temperature37–41 °C (99–106 °F) track temperature2.5 m/s (8.2 ft/s) wind from the southwest[4]
+952,2016,http://en.wikipedia.org/wiki/2016_Spanish_Grand_Prix,Partly cloudy20–22 °C (68–72 °F) air temperature39–41 °C (102–106 °F) track temperature2 m/s (6.6 ft/s) wind from the north[4]
+948,2016,http://en.wikipedia.org/wiki/2016_Australian_Grand_Prix,Partly cloudy22–23 °C (72–73 °F) air temperature26–36 °C (79–97 °F) track temperature4 m/s (8.9 mph; 14 km/h) wind from the south[4]
+954,2016,http://en.wikipedia.org/wiki/2016_Canadian_Grand_Prix,Cloudy12 °C (54 °F) air temperature21–23 °C (70–73 °F) track temperature2.5 m/s (8.2 ft/s) wind from the southeast[4]
+957,2016,http://en.wikipedia.org/wiki/2016_British_Grand_Prix,"Wet at start, dry later"
+955,2016,http://en.wikipedia.org/wiki/2016_European_Grand_Prix,Partly cloudy30–33 °C (86–91 °F) air temperature39–45 °C (102–113 °F) track temperature2.5 m/s (8.2 ft/s) wind from the southeast[4]
+953,2016,http://en.wikipedia.org/wiki/2016_Monaco_Grand_Prix,"Rainy at start, dry later17–18 °C (63–64 °F) air temperature20–22 °C (68–72 °F) track temperature2 m/s (6.6 ft/s) wind from the north[4]"
+980,2017,http://en.wikipedia.org/wiki/2017_Belgian_Grand_Prix,Partially cloudy and dry
+988,2017,http://en.wikipedia.org/wiki/2017_Abu_Dhabi_Grand_Prix,Clear
+987,2017,http://en.wikipedia.org/wiki/2017_Brazilian_Grand_Prix,Sunny
+986,2017,http://en.wikipedia.org/wiki/2017_Mexican_Grand_Prix,"Sunny, dry"
+985,2017,http://en.wikipedia.org/wiki/2017_United_States_Grand_Prix,Sunny with temperatures reaching up to 82.9 °F (28.3 °C); wind speeds approaching speeds of 13.8 miles per hour (22.2 km/h)[4]
+984,2017,http://en.wikipedia.org/wiki/2017_Japanese_Grand_Prix,Sunny
+983,2017,http://en.wikipedia.org/wiki/2017_Malaysian_Grand_Prix,Cloudy
+982,2017,http://en.wikipedia.org/wiki/2017_Singapore_Grand_Prix,"Wet at start, then drying. Air temperature: 28°C (82°F)"
+981,2017,http://en.wikipedia.org/wiki/2017_Italian_Grand_Prix,Sunny
+979,2017,http://en.wikipedia.org/wiki/2017_Hungarian_Grand_Prix,Sunny
+978,2017,http://en.wikipedia.org/wiki/2017_British_Grand_Prix,Overcast
+977,2017,http://en.wikipedia.org/wiki/2017_Austrian_Grand_Prix,Partly cloudy
+976,2017,http://en.wikipedia.org/wiki/2017_Azerbaijan_Grand_Prix,Sunny
+975,2017,http://en.wikipedia.org/wiki/2017_Canadian_Grand_Prix,Sunny and hot with temperatures reaching up to 29 °C (84 °F); wind speeds reaching 12.9 kilometres per hour (8.0 mph)[4]
+974,2017,http://en.wikipedia.org/wiki/2017_Monaco_Grand_Prix,Sunny
+973,2017,http://en.wikipedia.org/wiki/2017_Spanish_Grand_Prix,Sunny
+972,2017,http://en.wikipedia.org/wiki/2017_Russian_Grand_Prix,Sunny
+971,2017,http://en.wikipedia.org/wiki/2017_Bahrain_Grand_Prix,Clear
+970,2017,http://en.wikipedia.org/wiki/2017_Chinese_Grand_Prix,"Light rain at start, drying later."
+969,2017,http://en.wikipedia.org/wiki/2017_Australian_Grand_Prix,Partly cloudy24 °C (75 °F) air temperature31–36 °C (88–97 °F) track temperature2 m/s (4.5 mph; 7.2 km/h) wind from the northwest[3]
+1002,2018,http://en.wikipedia.org/wiki/2018_Italian_Grand_Prix,Sunny
+1003,2018,http://en.wikipedia.org/wiki/2018_Singapore_Grand_Prix,Clear
+1004,2018,http://en.wikipedia.org/wiki/2018_Russian_Grand_Prix,Cloudy
+1005,2018,http://en.wikipedia.org/wiki/2018_Japanese_Grand_Prix,Partly cloudy
+1009,2018,http://en.wikipedia.org/wiki/2018_Abu_Dhabi_Grand_Prix,Clear
+1007,2018,http://en.wikipedia.org/wiki/2018_Mexican_Grand_Prix,Sunny
+1008,2018,http://en.wikipedia.org/wiki/2018_Brazilian_Grand_Prix,Cloudy
+1001,2018,http://en.wikipedia.org/wiki/2018_Belgian_Grand_Prix,Cloudy
+1006,2018,http://en.wikipedia.org/wiki/2018_United_States_Grand_Prix,Partly cloudy
+1000,2018,http://en.wikipedia.org/wiki/2018_Hungarian_Grand_Prix,Sunny
+998,2018,http://en.wikipedia.org/wiki/2018_British_Grand_Prix,Sunny 27.0 °C (80.6 °F)[2]
+997,2018,http://en.wikipedia.org/wiki/2018_Austrian_Grand_Prix,Sunny
+996,2018,http://en.wikipedia.org/wiki/2018_French_Grand_Prix,"Partially cloudy, warm and dry"
+995,2018,http://en.wikipedia.org/wiki/2018_Canadian_Grand_Prix,Temperatures reaching up to 22.7 °C (72.9 °F); with wind speeds reaching 11.1 kilometres per hour (6.9 mph)[2]
+994,2018,http://en.wikipedia.org/wiki/2018_Monaco_Grand_Prix,Sunny
+993,2018,http://en.wikipedia.org/wiki/2018_Spanish_Grand_Prix,"Partially cloudy and dry, 16°C and cold."
+992,2018,http://en.wikipedia.org/wiki/2018_Azerbaijan_Grand_Prix,Cloudy
+991,2018,http://en.wikipedia.org/wiki/2018_Chinese_Grand_Prix,Sunny
+990,2018,http://en.wikipedia.org/wiki/2018_Bahrain_Grand_Prix,Clear
+989,2018,http://en.wikipedia.org/wiki/2018_Australian_Grand_Prix,Sunny
+999,2018,http://en.wikipedia.org/wiki/2018_German_Grand_Prix,Overcast with intermittent rain
+1019,2019,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,Partly cloudy
+1022,2019,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,Partly cloudy
+1023,2019,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,Partly cloudy
+1024,2019,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,Slightly hazy
+1025,2019,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,Partly cloudy
+1030,2019,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,Clear
+1027,2019,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,Partly cloudy
+1028,2019,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,Sunny
+1029,2019,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,Sunny
+1026,2019,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,Sunny
+1021,2019,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,Sunny
+1016,2019,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,Temperatures reaching up to 29.6 °C (85.3 °F); wind speeds negligible[2]
+1018,2019,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,"Sunny, 36C (97F)"
+1017,2019,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,Clear
+1015,2019,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,Overcast
+1014,2019,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,Sunny
+1013,2019,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,Mostly sunny
+1012,2019,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,Partly cloudy
+1011,2019,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,Clear
+1010,2019,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,Sunny
+1020,2019,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,"Early rain, Late clouds"
+1042,2020,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,Cloudy
+1047,2020,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,Clear
+1043,2020,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,Partly cloudy
+1040,2020,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,Sunny
+1045,2020,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,Clear
+1046,2020,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,Clear
+1044,2020,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,Overcast. Wet and drying track. Air: 11–14 °C (52–57 °F); Track: 14–17 °C (57–63 °F)
+1039,2020,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,Sunny
+1041,2020,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,"Partly cloudy, 10 °C (50 °F)"
+1037,2020,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,Partly cloudy
+1031,2020,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,Sunny
+1032,2020,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,Sunny
+1033,2020,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,"Wet at start, partly cloudy"
+1038,2020,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,Sunny
+1035,2020,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,Sunny
+1036,2020,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,Partly cloudy
+1034,2020,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,Partly cloudy
+1073,2021,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,Clear
+1064,2021,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,Sunny
+1051,2021,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,Clear
+1071,2021,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,Sunny
+1070,2021,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,Sunny
+1069,2021,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,Sunny
+1067,2021,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,Overcast with intermittent rain
+1066,2021,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,Cloudy and rainy
+1065,2021,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,Sunny
+1072,2021,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,Clear
+1063,2021,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,Wet; persistent rain
+1061,2021,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F)
+1060,2021,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,Partly cloudy
+1058,2021,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,Partly cloudy. Ambient temperature: 25 to 29 °C (77 to 84 °F); Surface temperature: 48 to 56 °C (118 to 133 °F)
+1059,2021,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,Windy and partly cloudy. Ambient temperature: 24 to 27 °C (75 to 81 °F); Surface temperature: 33 to 38 °C (91 to 100 °F)
+1057,2021,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,Sunny
+1056,2021,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,Sunny
+1055,2021,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,Cloudy
+1054,2021,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,Light cloud
+1053,2021,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,"Wet at start, drying during race, 9 °C (48 °F)"
+1052,2021,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,"Clear, 21 °C (70 °F)"
+1062,2021,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,Rain and sunny. Ambient: 26 to 29 °C (79 to 84 °F); Surface: 31 to 52 °C (88 to 126 °F).[3]
+1087,2022,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix,Sunny
+1088,2022,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix,Partly cloudy
+1089,2022,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix,Sunny
+1091,2022,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix,Partly cloudy in a wet and drying track
+1096,2022,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix,Clear
+1093,2022,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix,Partly cloudy
+1094,2022,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix,Partly cloudy
+1095,2022,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix,Cloudy
+1092,2022,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix,Rain
+1085,2022,http://en.wikipedia.org/wiki/2022_French_Grand_Prix,Sunny
+1086,2022,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix,"Overcast with drizzle throughout, light rain at the end"
+1083,2022,http://en.wikipedia.org/wiki/2022_British_Grand_Prix,Partly cloudy
+1074,2022,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix,Clear
+1075,2022,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix,Clear
+1076,2022,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix,Partly cloudy
+1077,2022,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix,Cloudy in a wet and drying track[2]
+1084,2022,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix,Partly cloudy
+1079,2022,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix,Sunny
+1080,2022,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix,Rain and partly cloudy in wet-and-drying track conditions
+1081,2022,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix,Sunny
+1082,2022,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix,Sunny
+1078,2022,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix,"Warm, partly cloudy, slight rain at the end"
+1110,2023,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,"Partly cloudy, with a rain interval"
+1119,2023,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,Clear
+1118,2023,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,Partly cloudy
+1117,2023,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,Sunny
+1116,2023,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,Sunny
+1115,2023,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,Clear
+1114,2023,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,Sunny
+1113,2023,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,Clear
+1112,2023,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,Sunny
+1111,2023,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,Cloudy and rainy
+1120,2023,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,Clear
+1109,2023,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,Sunny
+1107,2023,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,Cloudy
+1106,2023,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,Partly cloudy
+1105,2023,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,Cloudy
+1104,2023,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,"Cloudy, with some rain intervals"
+1102,2023,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,Partly cloudy
+1101,2023,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,Partly cloudy
+1100,2023,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,Sunny
+1099,2023,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,Clear
+1098,2023,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,Clear
+1108,2023,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,Partly cloudy
+1134,2024,https://en.wikipedia.org/wiki/2024_Belgian_Grand_Prix,Sunny
+1135,2024,https://en.wikipedia.org/wiki/2024_Dutch_Grand_Prix,Sunny
+1136,2024,https://en.wikipedia.org/wiki/2024_Italian_Grand_Prix,Partly cloudy
+1137,2024,https://en.wikipedia.org/wiki/2024_Azerbaijan_Grand_Prix,Sunny
+1142,2024,https://en.wikipedia.org/wiki/2024_Las_Vegas_Grand_Prix,Clear
+1139,2024,https://en.wikipedia.org/wiki/2024_United_States_Grand_Prix,Sunny
+1140,2024,https://en.wikipedia.org/wiki/2024_Mexico_City_Grand_Prix,Partly cloudy
+1141,2024,https://en.wikipedia.org/wiki/2024_S%C3%A3o_Paulo_Grand_Prix,Rain
+1133,2024,https://en.wikipedia.org/wiki/2024_Hungarian_Grand_Prix,Partly cloudy
+1138,2024,https://en.wikipedia.org/wiki/2024_Singapore_Grand_Prix,Clear
+1132,2024,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,Intermittent rain
+1143,2024,https://en.wikipedia.org/wiki/2024_Qatar_Grand_Prix,Clear
+1130,2024,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,Clear
+1129,2024,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,"Rainy at start, dry later"
+1128,2024,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,Sunny
+1127,2024,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,Partly cloudy
+1126,2024,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,Partly cloudy
+1125,2024,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,Cloudy
+1124,2024,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,Sunny
+1123,2024,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,Sunny
+1122,2024,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,Clear
+1121,2024,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,Clear
+1131,2024,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,Partly cloudy
+1144,2024,https://en.wikipedia.org/wiki/2024_Abu_Dhabi_Grand_Prix,Clear

@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['src\\data\\data_loader.py', 'src\\data\\data_preprocess.py', 'src\\data\\__init__.py']
+recent_files = ['main.py', 'src\\models\\train.py', 'src\\models\\train_utils.py', 'src\\models\\vif_check.py', 'src\\models\\evaluation.py', 'src\\models\\naive_bayes_model.py', 'src\\models\\naive_bayes_utils.py', 'src\\models\\compare_models.py']
 
 [main]
 version = 0.2.0

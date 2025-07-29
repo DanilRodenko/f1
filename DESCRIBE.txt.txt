@@ -6,6 +6,7 @@
 |	|	|--data_loader.py
 |	|	|--data_preprocess.py
 |	|	|--data_visualize.py
+|   |   |--data_preprocess.py
 |	|-- models/
 |	|	|--model.py
 |	|	|--train.py
@@ -17,3 +18,6 @@
 |-- notebooks/
 |-- tests/
 |-- results/
+
+
+projects@datascienceinstitute.net
